@@ -65,7 +65,7 @@ searchBtn.addEventListener("click", () => {
 
         if(countryName.length == 0){
             result.innerHTML = `
-            <h3>The input field cannot be empty!</h3>
+            <h3>Input field cannot be empty!</h3>
             `
         }
         
